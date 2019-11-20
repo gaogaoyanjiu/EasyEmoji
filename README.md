@@ -1,6 +1,6 @@
 # EasyEmoji
 
-
+表情图片地址：https://github.com/gaogaoyanjiu/EasyEmoji/tree/master/app/src/main/res/drawable-xhdpi
 
 Help developers to quickly realize the expression of the keyboard  
 
